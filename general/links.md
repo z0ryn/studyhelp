@@ -1,3 +1,3 @@
 # Links for general study skills
 
-## (Wikipedia)[wikipedia.org]
+## [Wikipedia](wikipedia.org)
