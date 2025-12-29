@@ -2,4 +2,4 @@
 
 ## [Wikipedia](wikipedia.org)
 
-## [Learn Anything(learn-anything.xyz)
+## [Learn Anything](learn-anything.xyz)
